@@ -1,3 +1,3 @@
--Taco Bell
--Domino's
--Tokyo Joe's
+- Taco Bell
+- Domino's
+- Tokyo Joe's
